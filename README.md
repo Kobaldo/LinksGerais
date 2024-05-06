@@ -9,3 +9,4 @@ Tutorial Botão Interativo: https://help.figma.com/hc/en-us/articles/20953528101
 Tutorial Ilustração: https://help.figma.com/hc/en-us/articles/13543867954711-Create-an-illustration-in-Figma-design
 
 Tutorial Trello: https://tecnoblog.net/responde/como-usar-o-trello-guia-para-iniciantes/
+                 https://trello.com/pt-BR/guide
